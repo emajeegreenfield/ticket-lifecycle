@@ -32,7 +32,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   <strong>End User Karen creates a ticket:</strong>
   </p>
 
-<img <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/78bc2dc4-d97d-4e9b-9f85-fddd8ce22efe" />
+ <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/78bc2dc4-d97d-4e9b-9f85-fddd8ce22efe" />
 </p>
 <p>
 </p>
@@ -56,7 +56,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 He makes sure to leave a proper message: </strong>
   </p>
 
-<img <img width="1286" height="502" alt="image" src="https://github.com/user-attachments/assets/2f7c191d-ec5a-42a4-b924-d54cc94645ba" />
+ <img width="1286" height="502" alt="image" src="https://github.com/user-attachments/assets/2f7c191d-ec5a-42a4-b924-d54cc94645ba" />
 </p>
 <p>
 <img <img width="1286" height="548" alt="image" src="https://github.com/user-attachments/assets/b9172cd5-f259-45da-afb8-e1ed88bea24d" />
@@ -75,7 +75,7 @@ He makes sure to leave a proper message: </strong>
   She goes in to work on the issue and get back to the end user in a timely manner.</strong>
   </p>
 
-<img <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/fbb43b7e-b6e4-44af-a26d-42747d735bad" />
+ <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/fbb43b7e-b6e4-44af-a26d-42747d735bad" />
 </p>
 <p>
 </p>
@@ -92,6 +92,6 @@ He makes sure to leave a proper message: </strong>
   She messages the end user that the issue has been resolved and closes the ticket.</strong>
   </p>
 
-<img <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/e84bce07-ed45-497b-9da6-c1c5968d0dd4" />
+ <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/e84bce07-ed45-497b-9da6-c1c5968d0dd4" />
 <p>
 <br />
